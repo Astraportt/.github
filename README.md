@@ -17,10 +17,10 @@ It helps users diversify, manage risk, and make smarter crypto decisions with tr
 
 ## 📂 Organization Repositories
 
-- [**astraport-core**](https://github.com/AstraPort/astraport-core) → AI models & portfolio analysis engine  
-- [**astraport-api**](https://github.com/AstraPort/astraport-api) → Backend API layer (FastAPI + PostgreSQL)  
-- [**astraport-dapp**](https://github.com/AstraPort/astraport-dapp) → Web3 frontend + dashboard (React/Next.js + Stellar SDK)  
-- [**astraport-smartcontracts**](https://github.com/AstraPort/astraport-smartcontracts) → Soroban smart contracts (Rust)  
+- [**astraport-core**](https://github.com/FoxAIhelper/astraport-core) → AI models & portfolio analysis engine  
+- [**astraport-api**](https://github.com/FoxAIhelper/astraport-api) → Backend API layer (FastAPI + PostgreSQL)  
+- [**astraport-dapp**](https://github.com/FoxAIhelper/astraport-dapp) → Web3 frontend + dashboard (React/Next.js + Stellar SDK)  
+- [**astraport-smartcontracts**](https://github.com/FoxAIhelper/astraport-smartcontracts) → Soroban smart contracts (Rust)  
 
 Each repo contains:
 - `/docs` → Documentation  
@@ -56,12 +56,12 @@ Each repo contains:
 
 ## 📖 Contributing
 We welcome contributions from developers, researchers, and community members.  
-See [CONTRIBUTING.md](https://github.com/AstraPort/.github/blob/main/CONTRIBUTING.md) for guidelines.  
+See [CONTRIBUTING.md](https://github.com/FoxAIhelper/.github/blob/main/CONTRIBUTING.md) for guidelines.  
 
 ---
 
 ## 📜 License
-AstraPort is released under the [MIT License](https://github.com/AstraPort/.github/blob/main/LICENSE.md).  
+AstraPort is released under the [MIT License](https://github.com/FoxAIhelper/.github/blob/main/LICENSE.md).  
 This allows free use, modification, and distribution with proper attribution.  
 
 ---
