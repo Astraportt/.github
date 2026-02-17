@@ -1,12 +1,12 @@
 # 🌌 AstraPort
 
-**AI-Powered Portfolio Advisor on Stellar**  
+**AI-Powered Portfolio Advisor**  
 *Navigate your crypto universe with AI-powered clarity.*
 
 ---
 
 ## 📖 About AstraPort
-AstraPort is an **open-source AI-powered portfolio advisor** built on the Stellar ecosystem.  
+AstraPort is an **open-source AI-powered portfolio advisor**.  
 It helps users diversify, manage risk, and make smarter crypto decisions with transparent, community-driven intelligence.  
 
 - 🔮 **AI Intelligence**: Risk scoring, diversification, predictive insights  
